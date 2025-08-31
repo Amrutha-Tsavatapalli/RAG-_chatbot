@@ -1,0 +1,16 @@
+{
+  "cs": [
+    "What is Object-Oriented Programming?",
+    "Explain the difference between Python and Java.",
+    "What is a database index?",
+    "Describe your experience with version control.",
+    "What is time complexity?"
+  ],
+  "general": [
+    "Tell me about yourself.",
+    "What are your strengths and weaknesses?",
+    "Where do you see yourself in 5 years?",
+    "How do you handle stress?",
+    "Describe a time you worked in a team."
+  ]
+}
